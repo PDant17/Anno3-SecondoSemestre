@@ -1,0 +1,1 @@
+Queste sono le uniche slide su e-learning per quest'anno ed il suo intranet non è esattamente la cosa più aggiornata al mondo. Non avendo né seguito né scelto il corso, non ho modo di sapere se e quanto abbia modificato il materiale (punto comunque su "molto poco").
