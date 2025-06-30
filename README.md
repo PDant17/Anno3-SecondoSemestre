@@ -1,7 +1,7 @@
 # Anno3-SecondoSemestre
 Repo per raccogliere il materiale inerente al secondo semestre del terzo anno del corso di laurea in Informatica UNISA
 
-Viste le discete dimensioni della repo, qui c'è un link per scaricare soltanto delle subdirectories:
+Viste le discrete dimensioni della repo, qui c'è un link per scaricare soltanto delle subdirectories:
 - https://download-directory.github.io/
 
 Appunti Rosa Carota:
